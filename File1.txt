@@ -1,8 +1,7 @@
 testing line
 commit test
 456
-
 789
-
 01001.
 add Line
+New line for GUI
